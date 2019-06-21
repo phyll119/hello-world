@@ -1,4 +1,4 @@
 # hello-world
 first github repository
 
-This is a first time experience using github. I'm looking forward to learning the ins and outs and how to collaborate with others using github. Ultimately I want to contribute to open-source projects. Updated 3apr18
+This repository is the result of my first time experience using github. I'm looking forward to learning more about the ins and outs and how to collaborate with others using github. I'll be posting my programming/data analysis work in other repositories. Updated 3apr18, 21jun19
